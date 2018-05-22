@@ -1,0 +1,14 @@
+--- gengen-1.4.2/doc/gengen.texinfo.orig	2010-08-31 15:42:52.000000000 +0200
++++ gengen-1.4.2/doc/gengen.texinfo	2018-05-22 18:11:39.171698672 +0200
+@@ -34,9 +34,9 @@
+ @end quotation
+ @end copying
+ 
+-@dircategory GNU programming tools
++@dircategory Programming tools:
+ @direntry
+-* Gengen: (gengen).         A parameterized-text-generator generator based on a template
++* Gengen: (gengen).			A parameterized-text-generator generator based on a template
+ @end direntry
+ 
+ @c @shorttitlepage GNU Gengen
