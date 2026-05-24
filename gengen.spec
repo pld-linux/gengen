@@ -2,7 +2,7 @@ Summary:	GNU Gengen - parameterized-text-generator generator based on a template
 Summary(pl.UTF-8):	GNU Gengen - generator generatorów sparametryzowanego tekstu w oparciu o wzorzec
 Name:		gengen
 Version:	1.4.2
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Development/Tools
 Source0:	http://ftp.gnu.org/gnu/gengen/%{name}-%{version}.tar.gz
